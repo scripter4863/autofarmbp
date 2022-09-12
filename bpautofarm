@@ -1,0 +1,2 @@
+getgenv().AutoFarm = true
+loadstring(game:HttpGet('https://raw.githubusercontent.com/scripter4863/bpmain/main/autofarmmainbp'))()
